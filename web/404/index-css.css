@@ -1,0 +1,94 @@
+html {
+    font-family:"メイリオ";
+    }
+    
+    body{
+        margin: 0px;
+    }
+    
+    a.no-color-change {
+        color: #ffffff;
+        text-decoration: none;
+        
+    }
+    
+    .header {
+        background-color: #0049c8;
+        height: 100px;
+        padding: 10px;
+        color: #fff;
+    
+    }
+    
+    .header-rogo{
+        float: left;
+        font-size: 36px;
+        padding: 20px 40px;
+    }
+    
+    .header-tab li{
+        list-style: none;
+        padding: 30px 20px;
+        float: right;
+    }
+    
+    .main{
+        padding: 20px;
+        height: auto;
+    }
+    
+    .title h1{
+        font-size:100px;
+        padding: 20px;
+    }
+    
+    .profile{
+        margin-top: 5px;
+        width: 550px;
+        border: 5px solid #2f5167;
+    }
+    
+    .profile-head{
+        color:#fff;
+        background-color: #0049c8;
+        margin-top: 0px;
+        margin-bottom: 0px;
+    }
+    
+    .profile-head h2{
+        margin: 0px 10px 0px 10px; 
+    }
+    
+    .profile-body{
+        margin-top: 0px;
+    }
+    
+    .profile-body h2,p{
+        padding-left: 20px;
+    }
+    
+    .profile-body iframe{
+        margin:0px 100px 0px 100px;
+    }
+    
+    .footer{
+        background-color: #2f5167;
+        color: #fff;
+        height: 120px;
+        padding: 40px;
+    }
+    
+    .footer-logo{
+        float: left;
+        font-size: 30px;
+    }
+    
+    .footer-list{
+        float: right;
+    }
+    
+    .footer-list li{
+        list-style: none;
+    }
+    
+    
